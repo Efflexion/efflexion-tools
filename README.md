@@ -1,50 +1,51 @@
-# efflexion
+<p align="center">
+  <img src="https://efflexion.com/assets/img/efflexion-logo.png" width="220">
+</p>
 
-# Efflexion
+<h1 align="center">Efflexion</h1>
 
-**A curated toolkit of scripts, models, and dashboards turning raw data into intelligent workflows.**  
-Engineered for efficiency. Designed for momentum. 🚀
+<p align="center">
+Operational spreadsheet consulting for small businesses
+</p>
 
----
+# Efflexion Tools
 
-## 💡 About
+Utilities and automation scripts supporting Efflexion's spreadsheet consulting work.
 
-Efflexion is my personal sandbox — a space where automation meets insight, where code becomes clarity.  
-Whether it's ETL pipelines, scraping workflows, Power BI dashboards or data-cleaning scripts,  
-this is where experiments evolve into powerful tools.
-
----
-
-## 🔧 Tech & Tools
-
-- 🐍 Python & Power Query
-- 💾 ETL pipelines & automation
-- 📊 Power BI, dashboards & insights
-- 🌐 HTML · CSS · JavaScript
-- 🧼 Data cleaning & transformation
-- 🕸 Web scraping & efficiency modelling#
-
+These tools help improve reliability, automation, and reporting in spreadsheet-based business workflows.
 
 ---
 
-## 🔍 Highlights
+## Purpose
 
-- 💼 Business analytics & optimisation
-- 📈 Intelligent workflow designs
-- 🧠 Insight-first, clutter-free mindset
+Many small businesses rely heavily on spreadsheets for operational processes.
 
----
+The utilities in this repository explore ways to:
 
-## 🔗 Website
-
-[efflexion.com](https://efflexion.com) – coming soon
-
----
-
-## 🤝 Let’s connect
-
-Want to collaborate or explore more? Drop a line at **hello@efflexion.com**
+- stabilise fragile spreadsheet systems
+- automate repetitive workflows
+- simplify data preparation
+- support clearer operational reporting
 
 ---
 
-> _"Data is just noise until you shape it with intent."_
+## Technologies
+
+- Python
+- Excel & Power Query
+- Data transformation utilities
+- Workflow automation scripts
+
+---
+
+## Context
+
+These tools support the consulting work delivered through **Efflexion**, which focuses on improving spreadsheet reliability and operational clarity for small businesses.
+
+🌐 https://efflexion.com
+
+---
+
+## Contact
+
+hello@efflexion.com
